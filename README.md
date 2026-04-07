@@ -47,7 +47,7 @@ Insights & recommendations are generated
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/moodshift.git
+git clone https://github.com/Abj-code/moodshift.git
 cd moodshift
 2️⃣ Frontend Setup (Flutter)
 cd frontend
