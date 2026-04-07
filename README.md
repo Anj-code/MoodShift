@@ -46,18 +46,15 @@ Burnout risk is predicted
 Insights & recommendations are generated
 
 ⚙️ Installation & Setup
-1️⃣ Clone the Repository
-git clone https://github.com/Abj-code/moodshift.git
-cd moodshift
-2️⃣ Frontend Setup (Flutter)
+- Frontend Setup (Flutter)
 cd frontend
 flutter pub get
 flutter run
-3️⃣ Backend Setup
+- Backend Setup
 cd backend
 pip install -r requirements.txt
 python app.py
-📈 Future Enhancements
+- Future Enhancements
 Voice-based mood detection
 Real-time emotion detection using camera
 Personalized AI chatbot companion
