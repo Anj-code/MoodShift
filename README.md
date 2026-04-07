@@ -33,11 +33,6 @@ REACT, CSS
 Backend:
 Python / Node.js
 
-AI/ML:
-
-Scikit-learn / TensorFlow (for prediction models)
-NLP for mood analysis
-
 Database:
 
 Firebase / MongoDB
