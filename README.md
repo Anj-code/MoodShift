@@ -45,21 +45,6 @@ ML model analyzes trends
 Burnout risk is predicted
 Insights & recommendations are generated
 
-⚙️ Installation & Setup
-- Frontend Setup (Flutter)
-cd frontend
-flutter pub get
-flutter run
-- Backend Setup
-cd backend
-pip install -r requirements.txt
-python app.py
-- Future Enhancements
-Voice-based mood detection
-Real-time emotion detection using camera
-Personalized AI chatbot companion
-Wearable integration (heart rate, sleep tracking)
-
 🤝 Contribution
 Contributions are welcome! Feel free to fork the repo and submit a pull request.
 
